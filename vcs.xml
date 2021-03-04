@@ -126,9 +126,13 @@
           <option name="url" value="http://git.c.citic" />
           <option name="userName" value="qingyuan.fu@riveretech.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/Glory-Of-Kings/enjoyplus-points.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\jrx-projects" />
+    <option name="cloneParentDir" value="E:\jrx-projects\Glory-Of-Kings" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

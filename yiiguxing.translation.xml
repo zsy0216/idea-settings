@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="512" />
-    <option name="newTranslationDialogY" value="314" />
+    <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="duplicate" />
+      <item value="omit" />
+      <item value="om" />
+      <item value="ommit" />
       <item value="49" />
       <item value="优先级" />
       <item value="signature" />

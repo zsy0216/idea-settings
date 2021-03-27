@@ -146,6 +146,10 @@
           <option name="url" value="https://gitee.com/chu1204505056/vue-admin-beautiful.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zsy0216/JavaAlgorithms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Projects" />

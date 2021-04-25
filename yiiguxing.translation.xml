@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Generic array creation" />
       <item value="trigger" />
       <item value="retrieve" />
       <item value="omitted" />
@@ -54,12 +55,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614740476364" />
+    <option name="lastTrimTime" value="1619349546193" />
   </component>
 </application>

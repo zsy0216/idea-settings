@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Replace an existing file if it exists." />
+      <item value="Copy attributes to the new file." />
+      <item value="Move the file as an atomic file system operation." />
       <item value="Generic array creation" />
       <item value="trigger" />
       <item value="retrieve" />
@@ -55,12 +58,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619349546193" />
+    <option name="lastTrimTime" value="1621761598732" />
   </component>
 </application>

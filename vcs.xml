@@ -162,9 +162,17 @@
           <option name="url" value="https://gitee.com/zsy0216/java-pro-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.c.citic/Glory-Of-Kings/citic-prudential-miniprogram.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/Glory-Of-Kings/citic-prudential-miniprogram.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Projects" />
+    <option name="cloneParentDir" value="E:\jrx-projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

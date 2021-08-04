@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="specified" />
       <item value="行认证~~~ 2021-08-01 11:33:40.785 INFO 18224 --- [nio-8080-exec-5] io.zsy.shiro.config.UserRealm : 执行授权~~~" />
       <item value="principal" />
       <item value="后缀" />
@@ -55,12 +56,11 @@
       <item value="stereor" />
       <item value="stereoer" />
       <item value="stereo" />
-      <item value="stereot" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>

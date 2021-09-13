@@ -198,9 +198,13 @@
           <option name="url" value="https://git.c.citic/Glory-Of-Kings/enjoyplus-equity-stock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/tyros/typos-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\jrx-projects\Glory-Of-Kings" />
+    <option name="cloneParentDir" value="E:\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

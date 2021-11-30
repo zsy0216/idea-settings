@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Version format changed from Java 9 onwards. Support old format that was used in EA implementation as well" />
       <item value="in favor of" />
       <item value="favor" />
       <item value="specified" />
@@ -55,7 +56,6 @@
       <item value="变更时间" />
       <item value="字段类型" />
       <item value="数据类型" />
-      <item value="stereor" />
     </histories>
     <option name="languageScores">
       <map>

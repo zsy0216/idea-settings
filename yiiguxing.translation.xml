@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="catalina" />
       <item value="Version format changed from Java 9 onwards. Support old format that was used in EA implementation as well" />
       <item value="in favor of" />
       <item value="favor" />
@@ -55,17 +56,20 @@
       <item value="默认值" />
       <item value="变更时间" />
       <item value="字段类型" />
-      <item value="数据类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636980369523" />
+    <option name="lastTrimTime" value="1638363484386" />
+  </component>
+  <component name="Settings">
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
   </component>
 </application>

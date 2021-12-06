@@ -226,9 +226,17 @@
           <option name="url" value="http://gitlab.jianq.com.cn:33980" />
           <option name="userName" value="zhangshuaiyin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zrk333/mq-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:zrk333/mq-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\AppIronProjects\module-strategy" />
+    <option name="cloneParentDir" value="E:\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

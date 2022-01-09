@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="driving range" />
+      <item value="练习场driving range" />
+      <item value="练习场" />
       <item value="nirvana" />
       <item value="catalina" />
       <item value="Version format changed from Java 9 onwards. Support old format that was used in EA implementation as well" />
@@ -53,20 +56,17 @@
       <item value="Meet" />
       <item value="regular" />
       <item value="specification" />
-      <item value="formula" />
-      <item value="默认值" />
-      <item value="变更时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641130015417" />
+    <option name="lastTrimTime" value="1641706909875" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

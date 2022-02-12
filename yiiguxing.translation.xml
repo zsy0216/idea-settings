@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="补做" />
+      <item value="补" />
+      <item value="bu" />
+      <item value="下发配置" />
+      <item value="下发" />
       <item value="repair" />
       <item value="补repair" />
-      <item value="补" />
       <item value="补偿" />
       <item value="commence" />
       <item value="Documentation" />
@@ -52,15 +56,11 @@
       <item value="交易金额" />
       <item value="交易描述" />
       <item value="交易代码" />
-      <item value="Issuance" />
-      <item value="累积余额" />
-      <item value="余额" />
-      <item value=" HTML entities must be escaped  react/no-unescaped-entities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="39" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

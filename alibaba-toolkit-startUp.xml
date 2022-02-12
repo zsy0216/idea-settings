@@ -1,5 +1,6 @@
 <application>
   <component name="TipsStore">
+    <entry projectPath="E:/AppIronProjects/emm-cloud/emm-base" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-config" startUpFlag="FIRST" />
   </component>
 </application>

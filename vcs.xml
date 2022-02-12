@@ -250,9 +250,13 @@
           <option name="url" value="https://gitee.com/zsy0216/java-source-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.jianq.com.cn:33980/emm-cloud/emm-proxy-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\projects-source" />
+    <option name="cloneParentDir" value="E:\AppIronProjects\emm-cloud" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

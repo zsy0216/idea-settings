@@ -5,6 +5,7 @@
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-auth" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-base" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-code-generator" startUpFlag="FIRST" />
+    <entry projectPath="E:/AppIronProjects/emm-cloud/emm-common" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-config" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-config-task" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-message" startUpFlag="FIRST" />
@@ -12,5 +13,6 @@
     <entry projectPath="E:/AppIronProjects/emm-cloud/strategy-server" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/task-domain" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/svn/taibao" startUpFlag="FIRST" />
+    <entry projectPath="E:/tyros-projects/tyros-common" startUpFlag="FIRST" />
   </component>
 </application>

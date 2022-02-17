@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="禁止内容网关" />
+      <item value="禁止" />
+      <item value="禁止准入" />
       <item value="设备类型不正确" />
       <item value=" both methods have same erasure" />
       <item value="交集" />
@@ -53,14 +56,11 @@
       <item value="omitted" />
       <item value="duplicate" />
       <item value="omit" />
-      <item value="om" />
-      <item value="ommit" />
-      <item value="49" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

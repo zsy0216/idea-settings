@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="持久化" />
+      <item value="保存数据" />
+      <item value="保存数据库" />
+      <item value="保存" />
+      <item value="落库" />
       <item value="property" />
       <item value="属性" />
       <item value="propert" />
@@ -52,11 +57,6 @@
       <item value="in favor of" />
       <item value="favor" />
       <item value="specified" />
-      <item value="行认证~~~ 2021-08-01 11:33:40.785 INFO 18224 --- [nio-8080-exec-5] io.zsy.shiro.config.UserRealm : 执行授权~~~" />
-      <item value="principal" />
-      <item value="后缀" />
-      <item value="MA 4" />
-      <item value="create Directory" />
     </histories>
     <option name="languageScores">
       <map>

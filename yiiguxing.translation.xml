@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="property" />
+      <item value="属性" />
+      <item value="propert" />
+      <item value="properti" />
+      <item value="配置" />
+      <item value="p" />
       <item value="storge Type" />
       <item value="storge" />
       <item value="get Super Class Generic Type" />
@@ -50,17 +57,11 @@
       <item value="后缀" />
       <item value="MA 4" />
       <item value="create Directory" />
-      <item value="creating" />
-      <item value="Replace an existing file if it exists." />
-      <item value="Copy attributes to the new file." />
-      <item value="Move the file as an atomic file system operation." />
-      <item value="Generic array creation" />
-      <item value="trigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

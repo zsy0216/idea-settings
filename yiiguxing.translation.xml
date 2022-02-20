@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="argument type mismatch" />
       <item value="已删除" />
       <item value="未删除" />
       <item value="extension" />
@@ -56,12 +57,11 @@
       <item value="练习场" />
       <item value="nirvana" />
       <item value="catalina" />
-      <item value="Version format changed from Java 9 onwards. Support old format that was used in EA implementation as well" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

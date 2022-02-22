@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="metrics" />
       <item value="Do not use @ for indentation" />
       <item value="argument type mismatch" />
       <item value="已删除" />
@@ -56,12 +57,11 @@
       <item value="driving range" />
       <item value="练习场driving range" />
       <item value="练习场" />
-      <item value="nirvana" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

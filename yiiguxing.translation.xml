@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="toolkit" />
       <item value="location Code" />
       <item value="warehouse Code" />
       <item value="bootstrap Registry Initializers" />
@@ -56,12 +57,11 @@
       <item value="Documentation" />
       <item value="The scope of the dependency - &amp;lt;code&amp;gt;compile&amp;lt;code&amp;gt;, &amp;lt;code&amp;gt;runtime&amp;lt;code&amp;gt;, &amp;lt;code&amp;gt;test&amp;lt;code&amp;gt;, &amp;lt;code&amp;gt;system&amp;lt;code&amp;gt;, and &amp;lt;code&amp;gt;provided&amp;lt;code&amp;gt;. Used to calculate the various classpaths used for compilation, testing, and so on. It also assists in determining which artifacts to include in a distribution of this project. For more information, see &amp;lt;a href=&amp;quot;http:maven.apache.orgguidesintroductionintroduction-to-dependency-mechanism.html&amp;quot;&amp;gt;the dependency mechanism&amp;lt;a&amp;gt;." />
       <item value="tyros" />
-      <item value="ty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

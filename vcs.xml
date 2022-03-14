@@ -266,9 +266,13 @@
           <option name="url" value="https://gitlab.jianq.com.cn:33980/emm-cloud/module-common/task-domain.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/fish-manager/scoremanager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\AppIronProjects\emm-cloud" />
+    <option name="cloneParentDir" value="E:\咸鱼\Projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">

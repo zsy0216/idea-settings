@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="determine Driver Class Name" />
+      <item value="detected" />
       <item value="病毒库更新周期" />
       <item value="病毒库更新" />
       <item value="病毒库" />
@@ -55,13 +57,11 @@
       <item value="下发配置" />
       <item value="repair" />
       <item value="补repair" />
-      <item value="补偿" />
-      <item value="commence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

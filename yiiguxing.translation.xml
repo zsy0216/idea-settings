@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="-Xlint:unchecked" />
       <item value="determine Driver Class Name" />
       <item value="detected" />
       <item value="病毒库更新周期" />
@@ -56,19 +57,18 @@
       <item value="bu" />
       <item value="下发配置" />
       <item value="repair" />
-      <item value="补repair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647486050826" />
+    <option name="lastTrimTime" value="1648372899773" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

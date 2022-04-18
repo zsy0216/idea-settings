@@ -2,11 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="542" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="诞生" />
       <item value="-Xlint:unchecked" />
       <item value="determine Driver Class Name" />
       <item value="detected" />
@@ -56,7 +57,6 @@
       <item value="补" />
       <item value="bu" />
       <item value="下发配置" />
-      <item value="repair" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648372899773" />
+    <option name="lastTrimTime" value="1650290830894" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

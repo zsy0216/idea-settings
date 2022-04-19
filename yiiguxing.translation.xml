@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="特殊" />
+      <item value="special" />
       <item value="诞生" />
       <item value="-Xlint:unchecked" />
       <item value="determine Driver Class Name" />
@@ -55,13 +57,11 @@
       <item value="重试" />
       <item value="补做" />
       <item value="补" />
-      <item value="bu" />
-      <item value="下发配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

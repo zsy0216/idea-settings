@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obtain" />
       <item value="生命周期" />
       <item value="Interface to be implemented by objects used within a {@link BeanFactory} which are themselves factories for individual objects. If a bean implements this interface, it is used as a factory for an object to expose, not directly as a bean instance that will be exposed itself." />
       <item value="级联" />
@@ -56,19 +57,18 @@
       <item value="过滤" />
       <item value="下发策略" />
       <item value="下发" />
-      <item value="下" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650290830894" />
+    <option name="lastTrimTime" value="1651507508025" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

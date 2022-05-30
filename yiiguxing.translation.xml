@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="534" />
+    <option name="newTranslationDialogWidth" value="532" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="slash" />
+      <item value="横线" />
+      <item value="横" />
+      <item value="横杠" />
       <item value="obtain" />
       <item value="生命周期" />
       <item value="Interface to be implemented by objects used within a {@link BeanFactory} which are themselves factories for individual objects. If a bean implements this interface, it is used as a factory for an object to expose, not directly as a bean instance that will be exposed itself." />
@@ -53,22 +57,18 @@
       <item value=" both methods have same erasure" />
       <item value="交集" />
       <item value="Public Key Retrieval is not allowed" />
-      <item value="过滤掉" />
-      <item value="过滤" />
-      <item value="下发策略" />
-      <item value="下发" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651507508025" />
+    <option name="lastTrimTime" value="1653917148720" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

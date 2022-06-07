@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the result value when complete, or throws an (unchecked) exception if completed exceptionally. To better conform with the use of common functional forms, if a computation involved in the completion of this CompletableFuture threw an exception, this method throws an (unchecked) {@link CompletionException} with the underlying exception as its cause." />
       <item value="slash" />
       <item value="横线" />
       <item value="横" />
@@ -56,19 +57,18 @@
       <item value="设备类型不正确" />
       <item value=" both methods have same erasure" />
       <item value="交集" />
-      <item value="Public Key Retrieval is not allowed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653917148720" />
+    <option name="lastTrimTime" value="1654615214149" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

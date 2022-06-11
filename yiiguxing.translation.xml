@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parent pom providing dependency and plugin management for applications built with Maven" />
       <item value="When applicable, use of {@code ThreadLocalRandom} rather than shared {@code Random} objects in concurrent programs will typically encounter much less overhead and contention." />
       <item value="Like the global {@link java.util.Random} generator used by the {@link java.lang.Math} class, a {@code ThreadLocalRandom} is initialized with an internally generated seed that may not otherwise be modified." />
       <item value="A random number generator isolated to the current thread." />
@@ -56,12 +57,11 @@
       <item value="当前支持的文件后缀有" />
       <item value="禁止内容网关" />
       <item value="禁止" />
-      <item value="禁止准入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

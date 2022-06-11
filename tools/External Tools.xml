@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$JDKPath$\bin\javap.exe" />
       <option name="PARAMETERS" value="-c $FileClass$" />
-      <option name="WORKING_DIRECTORY" value="$OutputPath$" />
+      <option name="WORKING_DIRECTORY" value="E:/projects-source/java-source-test/target/classes" />
     </exec>
   </tool>
 </toolSet>

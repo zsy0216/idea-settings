@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="530" />
+    <option name="newTranslationDialogWidth" value="528" />
     <option name="newTranslationDialogX" value="512" />
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="module" />
+      <item value="组件" />
+      <item value="服务" />
+      <item value="空间" />
+      <item value="控件" />
       <item value="apilog" />
       <item value="工具类" />
       <item value="Parent pom providing dependency and plugin management for applications built with Maven" />
@@ -52,16 +57,11 @@
       <item value="propert" />
       <item value="properti" />
       <item value="配置" />
-      <item value="p" />
-      <item value="storge Type" />
-      <item value="storge" />
-      <item value="get Super Class Generic Type" />
-      <item value="当前支持的文件后缀有" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

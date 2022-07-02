@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apilog" />
       <item value="工具类" />
       <item value="Parent pom providing dependency and plugin management for applications built with Maven" />
       <item value="When applicable, use of {@code ThreadLocalRandom} rather than shared {@code Random} objects in concurrent programs will typically encounter much less overhead and contention." />
@@ -56,12 +57,11 @@
       <item value="storge" />
       <item value="get Super Class Generic Type" />
       <item value="当前支持的文件后缀有" />
-      <item value="禁止内容网关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

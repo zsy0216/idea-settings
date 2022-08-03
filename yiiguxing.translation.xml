@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Callback interface that can be used to initialize a {@link BootstrapRegistry} before it is used." />
       <item value="module" />
       <item value="组件" />
       <item value="服务" />
@@ -56,19 +57,18 @@
       <item value="属性" />
       <item value="propert" />
       <item value="properti" />
-      <item value="配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656425470354" />
+    <option name="lastTrimTime" value="1659513998305" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

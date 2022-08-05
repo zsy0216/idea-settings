@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Attempts to authenticate the passed {@link Authentication} object, returning a fully populated &lt;code&gt;Authentication&lt;code&gt; object (including granted authorities) if successful." />
       <item value="Replace all lists with unmodifiable lists containing unique elements" />
       <item value="Callback interface that can be used to initialize a {@link BootstrapRegistry} before it is used." />
       <item value="module" />
@@ -56,12 +57,11 @@
       <item value="落库" />
       <item value="property" />
       <item value="属性" />
-      <item value="propert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>

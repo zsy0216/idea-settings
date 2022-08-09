@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="258" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add the given value to the list of non-option arguments." />
+      <item value="Add an option argument for the given option name and add the given value to the list of values associated with this option (of which there may be zero or more). The given value may be {@code null}, indicating that the option was specified without an associated value (e.g. &quot;--foo&quot; vs. &quot;--foo=bar&quot;)." />
       <item value="Attempts to authenticate the passed {@link Authentication} object, returning a fully populated &lt;code&gt;Authentication&lt;code&gt; object (including granted authorities) if successful." />
       <item value="Replace all lists with unmodifiable lists containing unique elements" />
       <item value="Callback interface that can be used to initialize a {@link BootstrapRegistry} before it is used." />
@@ -55,20 +57,18 @@
       <item value="保存数据库" />
       <item value="保存" />
       <item value="落库" />
-      <item value="property" />
-      <item value="属性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="FRENCH" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659513998305" />
+    <option name="lastTrimTime" value="1660011669427" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />

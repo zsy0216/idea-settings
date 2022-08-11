@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <entry projectPath="E:/AppIronProjects/emm-cloud/appstore-server" startUpFlag="FIRST" />
+    <entry projectPath="E:/AppIronProjects/emm-cloud/audit-utils" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-assistant" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-auth" startUpFlag="FIRST" />
     <entry projectPath="E:/AppIronProjects/emm-cloud/emm-base" startUpFlag="FIRST" />
